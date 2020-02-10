@@ -1,3 +1,2 @@
-# python_hello_world
-This is Hello word python program to print hello world
-hi this is deepak and its first probram to print heloo in python 
+A collection of simple Bash scripts.
+Getting Started
