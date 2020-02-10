@@ -7,3 +7,5 @@ Getting Started
 [useradd_del.sh](https://github.com/deep3089/bash_scripts/blob/master/useradd_del.sh)
 
 [UserInfo.sh](https://github.com/deep3089/bash_scripts/blob/master/UserInfo.sh)
+
+[SystemInfo.sh](https://github.com/deep3089/bash_scripts/blob/master/SystemInfo.sh)
