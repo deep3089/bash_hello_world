@@ -2,4 +2,4 @@ A collection of simple Bash scripts
 
 Getting Started
 
-<a href="https://github.com/deep3089/bash_scripts/blob/master/hello_world.sh">helo_world.sh</a>
+[hello.sh](https://github.com/deep3089/bash_scripts/blob/master/hello_world.sh)
