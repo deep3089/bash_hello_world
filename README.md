@@ -14,3 +14,4 @@ This is collection of simple bash script which automate your daily work as linux
 
 [DiskSpace_uptime.sh](https://github.com/deep3089/bash_scripts/blob/master/Diskspace_uptime_load_average.sh)
 
+[remote-backup.sh](https://github.com/deep3089/bash_scripts/blob/master/backup.sh)
