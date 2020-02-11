@@ -9,3 +9,6 @@ This is collection of simple bash script which automate your daily work as linux
 [UserInfo.sh](https://github.com/deep3089/bash_scripts/blob/master/UserInfo.sh)
 
 [SystemInfo.sh](https://github.com/deep3089/bash_scripts/blob/master/SystemInfo.sh)
+
+[SystemHardwar.sh](https://github.com/deep3089/bash_scripts/blob/master/SystemHardwareInfo.sh)
+
