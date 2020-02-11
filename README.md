@@ -1,6 +1,6 @@
-A collection of simple Bash scripts 
+This is collection of simple bash script which automate your daily work as linux system admin
 
-Getting Started
+
 
 [hello.sh](https://github.com/deep3089/bash_scripts/blob/master/hello_world.sh)
 
