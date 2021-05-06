@@ -1,7 +1,4 @@
-#Below script ask you to add and delete user 
-#first you have to save it as usradd_del.sh
-#them give it execute permision by chmod +x usradd_del.sh
-#save it in current folder and run as bash scriptname
+
 
 #!/bin/bash
 if [ `id -u` = 'root' ]
